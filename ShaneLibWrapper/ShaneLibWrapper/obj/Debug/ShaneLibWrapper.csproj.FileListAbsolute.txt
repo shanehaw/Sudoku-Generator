@@ -1,0 +1,5 @@
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\ShaneLibWrapper\ShaneLibWrapper\bin\Debug\ShaneLibWrapper.dll
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\ShaneLibWrapper\ShaneLibWrapper\bin\Debug\ShaneLibWrapper.pdb
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\ShaneLibWrapper\ShaneLibWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\ShaneLibWrapper\ShaneLibWrapper\obj\Debug\ShaneLibWrapper.dll
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\ShaneLibWrapper\ShaneLibWrapper\obj\Debug\ShaneLibWrapper.pdb

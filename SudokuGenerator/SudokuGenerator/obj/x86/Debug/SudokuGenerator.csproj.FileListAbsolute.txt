@@ -1,0 +1,14 @@
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\bin\Debug\SudokuGenerator.exe
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\bin\Debug\SudokuGenerator.pdb
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\SudokuGenerator.Properties.Resources.resources
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\SudokuGenerator.exe
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\SudokuGenerator.pdb
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\bin\Debug\itextsharp.dll
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\bin\Debug\itextsharp.xtra.dll
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\bin\Debug\ShaneLibWrapper.dll
+C:\Users\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\SudokuGenerator.frmSudokuGenerator.resources
+E:\Shane Backup 2013.01.31\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\SudokuGenerator.exe
+E:\Shane Backup 2013.01.31\shaneh\Documents\Visual Studio 2010\Projects\SudokuGenerator\SudokuGenerator\obj\x86\Debug\SudokuGenerator.pdb

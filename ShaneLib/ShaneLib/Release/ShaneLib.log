@@ -1,0 +1,9 @@
+﻿  lib.cpp
+lib.cpp(747): warning C4018: '<' : signed/unsigned mismatch
+lib.cpp(787): warning C4390: ';' : empty controlled statement found; is this the intent?
+lib.cpp(1390): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+lib.cpp(1467): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library E:\Shane Backup 2013.01.31\shaneh\Documents\Visual Studio 2010\Projects\ShaneLib\Release\ShaneLib.lib and object E:\Shane Backup 2013.01.31\shaneh\Documents\Visual Studio 2010\Projects\ShaneLib\Release\ShaneLib.exp
+  Generating code
+  Finished generating code
+  ShaneLib.vcxproj -> E:\Shane Backup 2013.01.31\shaneh\Documents\Visual Studio 2010\Projects\ShaneLib\Release\ShaneLib.dll

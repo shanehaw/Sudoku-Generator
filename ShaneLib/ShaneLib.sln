@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShaneLib", "ShaneLib\ShaneLib.vcxproj", "{89FC0893-1CC9-43E0-834C-4CA8B4BBBB35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FC0893-1CC9-43E0-834C-4CA8B4BBBB35}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89FC0893-1CC9-43E0-834C-4CA8B4BBBB35}.Debug|Win32.Build.0 = Debug|Win32
+		{89FC0893-1CC9-43E0-834C-4CA8B4BBBB35}.Release|Win32.ActiveCfg = Release|Win32
+		{89FC0893-1CC9-43E0-834C-4CA8B4BBBB35}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
